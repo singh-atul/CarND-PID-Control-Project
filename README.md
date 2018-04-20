@@ -5,7 +5,7 @@ Udacity SDCND Term 2, Project 4
 
 ## Project Basics
 
-This Project is implemented in C++ , I used a Proportional-Integral-Derivative Controller know as PID controller to drive the car around the track in the  simulator. The primary focus of this project was to implent the controller for the steering angle . However I have also used the controller to determine the throttle.
+This Project is implemented in C++ , I used a Proportional-Integral-Derivative Controller know as PID controller to drive the car around the track in the  simulator. The primary focus of this project was to implent the controller to control the steering angle . However I have also used the controller to control the throttle.
 
 ## Reflections
 
