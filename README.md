@@ -12,9 +12,12 @@ This Project is implemented in C++ , I used a Proportional-Integral-Derivative C
 ### PID Components
 
 The actual implementation of code for basic PID controller is straight forward i.e 
+
  -Initializing the constants
- -Updating the Error 
- -Returning the Total Error
+
+-Updating the Error 
+
+-Returning the Total Error
 
 But making the controller to work as desired was the tough part . As for that we must need to have the knowlege of each part . 
 
